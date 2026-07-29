@@ -1,4 +1,4 @@
-# 🏗️ Building a Secure Two-Tier Architecture on AWS
+# Building a Secure Two-Tier Architecture on AWS
 
 > A secure AWS architecture demonstrating networking, private compute, scalable content delivery, and cloud best practices.
 
