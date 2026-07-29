@@ -7,7 +7,7 @@
 # Clone the Project
 
 ```bash
-git clone https://github.com/<your-username>/ontario-event-finder.git
+git clone https://github.com/<emeeks94/ontario-event-finder.git
 cd ontario-event-finder
 ```
 
@@ -26,18 +26,6 @@ npm install
 ```bash
 npm run build
 ```
-
----
-
-# Verify Build Output
-
-```bash
-ls -la
-ls -la .output/
-find .output/public -maxdepth 2 -type f
-```
-
----
 
 # Connect to EC2 via AWS Systems Manager
 
